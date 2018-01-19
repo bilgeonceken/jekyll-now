@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea - Usable Clone of Java Serialize
+title: Idea - Usable Clone of Java Serialize, Protobuff
 ---
 
 1. Transform object structure to binary and read the data in any language you want.
