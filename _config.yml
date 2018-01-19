@@ -85,3 +85,11 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-cayman
+
+
+
+---
+layout: default
+comments: true
+# other options
+---
