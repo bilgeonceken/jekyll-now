@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hackfest to get ubuntu 16.04 working on my msi pe60 6qe
+title: Way - Hackfest to get ubuntu 16.04 working on my msi pe60 6qe
 ---
 
 1. use arguments `nomodeset` and `acpi_osi=` when installing
