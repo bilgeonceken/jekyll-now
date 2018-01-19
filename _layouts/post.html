@@ -7,6 +7,13 @@ layout: default
 
   <div class="entry">
     {{ content }}
+
+    <script type="text/javascript">
+      var matches = document.body.querySelectorAll('pre');
+      for(var i = 0; i< matches.length; i++){
+        matches[i].classList.remove("highlight");
+      }
+    </script>
   </div>
 
   <div class="date">

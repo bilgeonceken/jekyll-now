@@ -18,8 +18,7 @@ title: hackfest to get ubuntu 16.04 working on my msi pe60 6qe
 13. enjoy
 14. In case that i somehow fail to follow my own instructions, final form of grub:
 
-
-``
+```text
 # If you change this file, run 'update-grub' afterwards to update
 # /boot/grub/grub.cfg.
 # For full documentation of the options in this file, see:
@@ -54,5 +53,4 @@ GRUB_CMDLINE_LINUX="pci=nomsi acpi_osi=\"Linux\""
 
 # Uncomment to get a beep at grub start
 #GRUB_INIT_TUNE="480 440 1"
-
-``
+```
